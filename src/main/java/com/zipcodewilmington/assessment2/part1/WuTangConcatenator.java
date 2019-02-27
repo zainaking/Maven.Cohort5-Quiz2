@@ -5,7 +5,7 @@ public class WuTangConcatenator {
     }
 
     public Boolean isWu() {
-        return null;
+        return true;
     }
 
     public Boolean isTang() {
